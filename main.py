@@ -7,7 +7,7 @@ import time
 
 
 mixer.init()
-sound = mixer.Sound('alarm.wav')
+sound = mixer.Sound('alarm.mp3')
 
 face = cv2.CascadeClassifier('haar_cascade\haarcascade_frontalface_alt.xml')
 leye = cv2.CascadeClassifier('haar_cascade\haarcascade_lefteye_2splits.xml')
