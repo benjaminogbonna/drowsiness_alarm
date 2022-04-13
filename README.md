@@ -6,8 +6,7 @@ Most Accidents as we know today are likely as a result of sleep/drowsiness of th
 drivers (during the day or night).<br/>
 To reduce the rate of this occurrence, this project uses a CNN powered model that could be embedded 
 in vehicles to raise an alarm when a driver falls asleep. The fun part of this project is that
-I used the same alarm Gilfoyle used in Silicon valley for his Bitcoin alarm (Napalm death Scum), 
-[find here](m.youtube.com/watch?v=uS)
+I used the same alarm Gilfoyle used in Silicon valley for his Bitcoin alarm (Napalm death Scum).
 
 ## Installation
 Create a virtual env, then
